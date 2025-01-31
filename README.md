@@ -14,7 +14,7 @@ O **Mundo Invertido** é um projeto inspirado no conceito do **Upside Down** da 
 
 ## 🛠️ **Tecnologias Utilizadas**
 - ⚛️ **React.js** – Para construção da interface (se aplicável).  
-- 🎨 **CSS3 / Tailwind / Styled Components** – Para estilização e efeitos visuais.  
+- 🎨 **CSS3** – Para estilização e efeitos visuais.  
 - 🎬 **Framer Motion / GSAP** – Para animações e transições suaves.  
 - 🌍 **API externa (caso utilize alguma)** – Para carregamento de conteúdos adicionais.  
 
