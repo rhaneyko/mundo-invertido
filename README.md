@@ -10,13 +10,10 @@ O **Mundo Invertido** é um projeto inspirado no conceito do **Upside Down** da 
 - 🔄 **Transição entre o mundo normal e o mundo invertido**, com efeitos visuais impactantes.  
 - 🕶️ **Estilização sombria e misteriosa**, inspirada no universo da série.  
 - 🎬 **Animações dinâmicas e interatividade** para maior imersão.  
-- 📜 **Exibição de informações e elementos relacionados ao tema** (caso tenha conteúdos adicionais).  
 
 ## 🛠️ **Tecnologias Utilizadas**
 - ⚛️ **React.js** – Para construção da interface (se aplicável).  
 - 🎨 **CSS3** – Para estilização e efeitos visuais.  
-- 🎬 **Framer Motion / GSAP** – Para animações e transições suaves.  
-- 🌍 **API externa (caso utilize alguma)** – Para carregamento de conteúdos adicionais.  
 
 ## 🚀 **Como Rodar o Projeto**
 1. Clone este repositório:
